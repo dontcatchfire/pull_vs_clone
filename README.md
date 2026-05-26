@@ -5,5 +5,6 @@ I've already set up a repository on GitHub with an MIT license in it. So that me
 
 Now, I'm gonna create content on my local machine and save it to my local repo. Doing this just for collecting personal info points, a.k.a experience. 
 
-### Let's begin
+---
 
+### Let's begin
